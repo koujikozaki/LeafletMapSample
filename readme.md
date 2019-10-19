@@ -2,4 +2,5 @@
 
 参考　https://leafletjs.com/
 
-アイコンは　https://rakugakiicon.com/　のものを使用させていただいています．
+アイコンは「落書きアイコン」　https://rakugakiicon.com/
+のものを使用させていただいています．
